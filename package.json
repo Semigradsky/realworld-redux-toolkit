@@ -1,0 +1,7 @@
+{
+  "name": "realworld-redux-toolkit",
+  "packageManager": "yarn@4.0.2",
+  "author": "Dmitry Semigradsky <semigradskyd@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
